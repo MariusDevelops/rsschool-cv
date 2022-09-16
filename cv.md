@@ -8,19 +8,19 @@ brazasmarius@gmail.com
 
 ## Summary
 
-My ultimate goal is to become professional full-stack developer who focus more on front-end side.
+My ultimate goal is to become professional full-stack developer who focus on front-end side.
 
 Why?
 
 I like chellange, get visual results, build stuff and figure out how things are made behind a scene.
 
-Front-end developement is a middle ground between ux/ui design and back-end. From this place I can reach both sides and learn everything what it takes to build full-stack applications. I like to know everything and there is so mutch to explore. More I learn, more passionate I get.
+Front-end developement is a middle ground between ux/ui design and back-end. From this place I can reach both sides and learn everything I need to build full-stack applications. I like to know everything and there is so mutch to explore. More I learn, more passionate I get.
 
 Nowdays I spent all my time learning to code. I think of my self as a self-organised, long time learner who can get things done and provide expected results.
 
 ## Skills
 
-HTML, CSS, SCSS.
+HTML, CSS, SCSS, Tailwind CSS.
 
 JavaScript, React.
 
@@ -42,7 +42,6 @@ How to create method that fetches data from API in React:
         console.log(error);
       });
   };
-  }
 ```
 
 ## Experience
